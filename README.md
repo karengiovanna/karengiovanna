@@ -14,11 +14,11 @@
 * 🎓 Estudante da graduação em Ciência da Computação na **[Universidade Federal de Roraima](http://ufrr.br/)**
 * 🔭 Atualmente procurando oportunidades de estágio como desenvolvedora júnior em Java
 * 🎓 Técnico em Informática pelo Instituto Federal de Roraima (2017)
-* 📄 Sou estagiária do setor de suporte no **[Tribunal de Contas Estadualde Roraima](https://www.tce.rr.leg.br/)**
+* 📄 Estagiária do setor de suporte no **[Tribunal de Contas Estadualde Roraima](https://www.tce.rr.leg.br/)**
 
 ### Conquistas recentes 🏆
 
-* 🥉 **Diretora de criação do [centro acadêmico](instagram.com/cacc.ufrr)** (2019-2021)
+* 🥉 **Diretora de criação do [centro acadêmico](http://instagram.com/cacc.ufrr)** (2019-2021)
 
 ### Publicações recentes 📝
 
