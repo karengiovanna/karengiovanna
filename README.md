@@ -16,6 +16,10 @@
 * 🎓 Técnico em Informática pelo Instituto Federal de Roraima (2017)
 * 📄 Estagiária do setor de suporte no **[Tribunal de Contas Estadualde Roraima](https://www.tce.rr.leg.br/)**
 
+### Projetos atuais 📝
+
+* 🥉 **100 dias de código [JAVA](https://github.com/karengiovanna/100-dias-de-codigo)** (Início: 2 de março de 2021)
+
 ### Conquistas recentes 🏆
 
 * 🥉 **Diretora de criação do [centro acadêmico](http://instagram.com/cacc.ufrr)** (2019-2021)
