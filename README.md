@@ -1,3 +1,4 @@
+
 <h2 align="center">Olá 👋, Eu sou a Karen</h2>
 <h3 align="center">Estudante de graduação, desenvolvedora junior e amante da leitura e do conhecimento cientifico</h3>
 
@@ -16,6 +17,12 @@
 * 🎓 Técnico em Informática pelo Instituto Federal de Roraima (2017)
 * 📄 Estagiária do setor de suporte no **[Tribunal de Contas Estadualde Roraima](https://www.tce.rr.leg.br/)**
 
+<h3> &nbsp;Ferramentas 🛠 </h3>
+
+- &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
 ### Projetos atuais 📝
 
 * 🥉 **100 dias de código [JAVA](https://github.com/karengiovanna/100-dias-de-codigo)** (Início: 2 de março de 2021)
@@ -30,3 +37,5 @@
 
 ![Karen GitHub Stats](https://github-readme-stats.vercel.app/api?username=karengiovanna&show_icons=true)
 ![Karen GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karengiovanna&theme=buefy&layout=compact)
+
+![visitantes](https://img.shields.io/github/watchers/karengiovanna/karengiovanna?label=quantidade%20de%20visitas&style=plastic)
