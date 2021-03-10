@@ -27,3 +27,6 @@
 ### Publicações recentes 📝
 
 * **Conheça o meu setup** - [Ler a publicação](https://www.linkedin.com/feed/update/urn:li:activity:6772983517287710721/)
+
+![Karen GitHub Stats](https://github-readme-stats.vercel.app/api?username=karengiovanna&show_icons=true)
+![Karen GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karengiovanna&theme=buefy&layout=compact)
