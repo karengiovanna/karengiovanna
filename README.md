@@ -10,7 +10,7 @@
 <a href="https://fb.com/karengiovannamelo" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/karengiovnn" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
-### Eu sou...
+### I am...
 * 🎓 Computer Science student at **[Universidade Federal de Roraima](http://ufrr.br/)**
 * 🔭 Trying to do my best to be a jr. dev
 * 🎓 Computer Technician Course at [Instituto Federal de Roraima](https://www.ifrr.edu.br/) (2017)
