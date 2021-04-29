@@ -10,25 +10,20 @@
 <a href="https://fb.com/karengiovannamelo" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/karengiovnn" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
-### I am...
-* 🎓 Computer Science student at **[Universidade Federal de Roraima](http://ufrr.br/)**
-* 🔭 Trying to do my best to be a jr. dev
-* 🎓 Computer Technician Course at [Instituto Federal de Roraima](https://www.ifrr.edu.br/) (2017)
-* 📄 IT support officer Internship at **[Tribunal de Contas Estadualde Roraima](https://www.tce.rr.leg.br/)**
+
+### Projects 📝
+
+* 🥉 **[AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)** 
+* 🥉 **[Card Portfólio](https://github.com/karengiovanna/karengiovanna.github.io/blob/main/README.md)**
+* 🥉 **[Podcaster](https://github.com/karengiovanna/Trilha_REACT_e_NEXT.JS)**
+
 
 <h3> &nbsp;Tools 🛠 </h3>
 
 - &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-### Projects 📝
-
-* 🥉 **100 dias de [código](https://github.com/karengiovanna/100-dias-de-codigo)** (Início: 2 de março de 2021)
-
-### Recent achievement 🏆
-
-* 🥉 **Diretora do [centro acadêmico](http://instagram.com/cacc.ufrr)** (2019-2021)
+  
 
 ### Recent publications 📝
 
