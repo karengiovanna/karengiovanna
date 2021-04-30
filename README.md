@@ -14,8 +14,9 @@
 ### Projects 📝
 
 * 🥉 **[AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)** 
-* 🥉 **[Card Portfólio](https://github.com/karengiovanna/karengiovanna.github.io/blob/main/README.md)**
+* 🥉 **[Card Portfólio](https://github.com/karengiovanna/Card-Portfolio)**
 * 🥉 **[Podcaster](https://github.com/karengiovanna/Trilha_REACT_e_NEXT.JS)**
+* 🥉 **[Prcessador de 8 bits](https://github.com/karengiovanna/AOC_KarenGiovanna_JoaoPaulo_UFRR2020)**
 
 
 <h3> &nbsp;Tools 🛠 </h3>
