@@ -30,5 +30,11 @@
 
 * **Conheça o meu setup** - [Ler a publicação](https://www.linkedin.com/feed/update/urn:li:activity:6772983517287710721/)
 
-![Karen GitHub Stats](https://github-readme-stats.vercel.app/api?username=karengiovanna&show_icons=true)
-![Karen GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karengiovanna&theme=buefy&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karengiovanna&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karengiovanna&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karengiovanna&theme=monokai)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karengiovanna)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
