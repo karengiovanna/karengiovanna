@@ -18,6 +18,9 @@
 * 🥉 **[Podcaster](https://github.com/karengiovanna/Trilha_REACT_e_NEXT.JS) - REACTJS**
 * 🥉 **[Prcessador de 8 bits](https://github.com/karengiovanna/AOC_KarenGiovanna_JoaoPaulo_UFRR2020) - VHDL**
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3> &nbsp;Tools 🛠 </h3>
 
