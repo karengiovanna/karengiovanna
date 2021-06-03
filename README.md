@@ -20,6 +20,9 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+TypeScript   2 hrs 45 mins   █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 <h3> &nbsp;Tools 🛠 </h3>
