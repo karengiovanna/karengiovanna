@@ -18,13 +18,6 @@
 * 🥉 **[Podcaster](https://github.com/karengiovanna/Trilha_REACT_e_NEXT.JS) - REACTJS**
 * 🥉 **[Prcessador de 8 bits](https://github.com/karengiovanna/AOC_KarenGiovanna_JoaoPaulo_UFRR2020) - VHDL**
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-TypeScript   2 hrs 45 mins   █████████████████████████   99.44 % 
-```
-<!--END_SECTION:waka-->
-
 <h3> &nbsp;Tools 🛠 </h3>
 
 - &nbsp;
@@ -40,7 +33,5 @@ TypeScript   2 hrs 45 mins   █████████████████
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karengiovanna&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karengiovanna&theme=monokai)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karengiovanna&theme=monokai)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karengiovanna)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
