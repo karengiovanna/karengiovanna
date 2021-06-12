@@ -7,7 +7,7 @@
   <a href="https://t.me/karengiovnn">
   <img align="left" alt="Karen's Telegram" width="22px" src="icons/telegram.svg" />
 </a>
-<a href="https://fb.com/karengiovannamelo" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://fb.com/akarengiovanna" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://instagram.com/karengiovnn" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <br />
 
