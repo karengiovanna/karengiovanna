@@ -23,3 +23,8 @@ Durante a graduação, além de apresentações nas disciplinas também apresent
 
 - [Barbearia Alura](https://karengiovanna.github.io/Barbearia-Alura/) (HTML + CSS)
 - [Podcaster](https://github.com/karengiovanna/Podcaster) (HTML + CSS + REACT + NEXTJS)
+
+### Minhas Inspirações
+
+##### Camila Achutti
+Criadora do portal Mulheres na Computação
