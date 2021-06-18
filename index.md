@@ -1,15 +1,12 @@
 ## Karen Giovanna
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-markdown
-Syntax highlighted code block
+### Sobre Mim
+Estou cursando a graduação de Ciência da Computação na Universidade Federal de Roraima e desenvolvo projetos em front-end, embora meus maiores interesses sejam hardware e programação competitiva.
 
 ### Apresentações
 
 Minhas primeiras apresentações relacionadas a Tecnologia aconteceram ainda durante o ensino médio. Leia a [reportagem](https://boavista.ifrr.edu.br/noticias/v-forint-doutores-da-informatica-integram-programacao-do-evento)
+
 ![image](https://user-images.githubusercontent.com/49700354/122494380-3fb93800-cfb7-11eb-855d-593f53809910.png)
 
 
