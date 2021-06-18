@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/karengiovanna/karengiovanna/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Karen Giovanna
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Apresentações
 
-- Bulleted
-- List
+Minhas primeiras apresentações relacionadas a Tecnologia aconteceram ainda durante o ensino médio. Leia a [reportagem](https://boavista.ifrr.edu.br/noticias/v-forint-doutores-da-informatica-integram-programacao-do-evento)
+![image](https://user-images.githubusercontent.com/49700354/122494380-3fb93800-cfb7-11eb-855d-593f53809910.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Durante a graduação, além de apresentações nas disciplinas também apresentei durante os eventos realizados pelo Centro Accadêmico. O qual faço parte desde 2019.
+![image](https://media-exp1.licdn.com/dms/image/C5622AQEDLl51QexcZw/feedshare-shrink_800/0/1613058033675?e=1626912000&v=beta&t=5WCFUX8dGQAKDghFhQuh0UttLa-JpnQUWnvVPyxLvYI)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Grupos
+* Programaria
+* Se Candidate, Mulher!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karengiovanna/karengiovanna/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Projetos
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Barbearia Alura](https://karengiovanna.github.io/Barbearia-Alura/) (HTML + CSS)
+- [Podcaster](https://github.com/karengiovanna/Podcaster) (HTML + CSS + REACT + NEXTJS)
