@@ -16,7 +16,8 @@
 * 🥉 **[AluraFlix](https://github.com/karengiovanna/100-dias-de-codigo/tree/main/Imersao%20Dev%20-%20ALURA/4%20%20Aluraflix%20com%20interacao)** 
 * 🥉 **[Card Portfólio](https://github.com/karengiovanna/Card-Portfolio)**
 * 🥉 **[Podcaster](https://github.com/karengiovanna/Trilha_REACT_e_NEXT.JS) - REACTJS**
-* 🥉 **[Prcessador de 8 bits](https://github.com/karengiovanna/AOC_KarenGiovanna_JoaoPaulo_UFRR2020) - VHDL**
+* 🥉 **[Processador de 8 bits](https://github.com/karengiovanna/AOC_KarenGiovanna_JoaoPaulo_UFRR2020) - VHDL**
+* 🥉 **[Sistema de Cobrança de Títulos](https://github.com/karengiovanna/SpringMVC) - Java, Thymeleaf, SpringMVC**
 
 <h3> &nbsp;Tools 🛠 </h3>
 
